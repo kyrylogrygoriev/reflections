@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Answer: it is creating a file .git that will collecting all commits data.
