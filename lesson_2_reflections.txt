@@ -1,2 +1,6 @@
-What happens when you initialize a repository? Why do you need to do it?
+1) What happens when you initialize a repository? Why do you need to do it?
 Answer: it is creating a file .git that will collecting all commits data.
+2) How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+Answer: it is contains only added files to track. you can make changes in
+different files and than add them as one commit.
