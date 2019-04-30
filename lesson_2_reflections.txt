@@ -4,3 +4,19 @@ Answer: it is creating a file .git that will collecting all commits data.
 repository? What value do you think it offers?
 Answer: it is contains only added files to track. you can make changes in
 different files and than add them as one commit.
+3) How can you use the staging area to make sure you have one commit per
+logical change?
+Answer: comparing files in repository and staging area.
+4) What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+Answer: when you need to test some features and don't wont to break the main
+code. It make a separate copy of the code, so you aren't changing the main
+code.
+5) How do the diagrams help you visualize the branch structure?
+Answer: it's show the relation between commits.
+6) What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+Answer: combination of changes from both branches.
+7) What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+Answer: it is save time in case of obvious situations.
